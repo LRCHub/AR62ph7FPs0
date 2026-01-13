@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Chasing Lightning",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2026-01-13T23:35:46.409543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chasing Lightning",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/01_Chasing_Lightning_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chasing Lightning (Preview)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_Chasing_Lightning_(Preview)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chasing Lightning",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_Chasing_Lightning_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chasing Lightning",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/04_Chasing_Lightning_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chasing Lightning",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/05_Chasing_Lightning_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chasing Lightning",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/06_Chasing_Lightning_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chasing Lightning (Intro)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/07_Chasing_Lightning_(Intro)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chasing Lightning",
+      "artist": "Le Sserafim",
+      "has_synced": true,
+      "path": "select/08_Chasing_Lightning_Le_Sserafim.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chasing Lightning",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Chasing_Lightning_LE_SSERAFIM.txt"
+    }
+  ]
+}
